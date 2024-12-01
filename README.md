@@ -58,5 +58,5 @@ This project focuses on cleaning and standardizing a raw Sales Dataset to ensure
 <BR>
 
 ### Tools Used
-- Microsoft Excel: For cleaning, formatting, and organizing the data.
-- Documentation and Collaboration: GitHub.
+- **Microsoft Excel:** For cleaning, formatting, and organizing the data.
+- **Documentation and Collaboration:** GitHub.
